@@ -107,31 +107,6 @@ $(".btn").on("click",function(){
         
     })
     
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 function playSound(color)
